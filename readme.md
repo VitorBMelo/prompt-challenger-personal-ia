@@ -129,13 +129,13 @@ Entendendo o Perfil:
     Treino ABC: Divisão dos grupos musculares em três dias para otimizar a recuperação e promover o crescimento muscular.
     Funcional e Peso Livre: Prioriza movimentos compostos e naturais, utilizando o peso do corpo e halteres para um treino mais completo e eficaz.
 
-##Objetivo:
+Objetivo:
 
     Queimar gordura: Priorizar exercícios que elevem a frequência cardíaca e aumentem o gasto calórico.
     Tonificar os músculos: Desenvolver força e definição muscular, focando nos grandes grupos musculares.
     Melhorar a resistência: Aumentar a capacidade de realizar exercícios por um período mais longo.
 
-##Exemplo de Plano de Treino ABC:
+Exemplo de Plano de Treino ABC:
 
     Dia A: Peito, Tríceps e Abdômen
         Aquecimento: 5 minutos de cardio leve (pular corda, bicicleta) + 5 minutos de mobilidade articular.
@@ -152,7 +152,7 @@ Entendendo o Perfil:
         Perna: Agachamento livre, afundo, lunges, calf raise.
         Abdômen: Plank lateral, bicicleta invertida, abdominal com rotação.
 
-##Observações:
+Observações:
 
     Repetições e séries: Para queimar gordura e tonificar os músculos, realize entre 12 e 15 repetições por série e 3 a 4 séries por exercício.
     Descanso: Descanse entre 45 segundos e 1 minuto entre as séries.
@@ -160,7 +160,7 @@ Entendendo o Perfil:
     Nutrição: Combine o treino com uma alimentação equilibrada e rica em proteínas para auxiliar na construção muscular e na perda de gordura.
     Cardio: Inclua atividades cardiovasculares como corrida, natação ou ciclismo em dias alternados aos treinos de força para aumentar o gasto calórico.
 
-##Dicas Adicionais:
+Dicas Adicionais:
 
     Varie os exercícios: Alterne os exercícios a cada 4-6 semanas para evitar a adaptação muscular e continuar estimulando o crescimento.
     Contratar um profissional: Consulte um educador físico para um acompanhamento personalizado e evitar lesões.

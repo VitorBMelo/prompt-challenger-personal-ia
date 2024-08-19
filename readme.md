@@ -121,3 +121,48 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Criando um Plano de Treino Personalizado para Endomorfos: Foco em Funcional e Peso Livre
+Entendendo o Perfil:
+
+    Endomorfo: Tende a ganhar peso com facilidade, especialmente na região abdominal.
+    Treino ABC: Divisão dos grupos musculares em três dias para otimizar a recuperação e promover o crescimento muscular.
+    Funcional e Peso Livre: Prioriza movimentos compostos e naturais, utilizando o peso do corpo e halteres para um treino mais completo e eficaz.
+
+##Objetivo:
+
+    Queimar gordura: Priorizar exercícios que elevem a frequência cardíaca e aumentem o gasto calórico.
+    Tonificar os músculos: Desenvolver força e definição muscular, focando nos grandes grupos musculares.
+    Melhorar a resistência: Aumentar a capacidade de realizar exercícios por um período mais longo.
+
+##Exemplo de Plano de Treino ABC:
+
+    Dia A: Peito, Tríceps e Abdômen
+        Aquecimento: 5 minutos de cardio leve (pular corda, bicicleta) + 5 minutos de mobilidade articular.
+        Peito: Supino com halteres, flexões, crucifixo inclinado.
+        Tríceps: Extensão de tríceps com halteres, mergulhos, tríceps pulley.
+        Abdômen: Plank, bicicleta, elevação de pernas.
+    Dia B: Costas, Bíceps e Abdômen
+        Aquecimento: 5 minutos de cardio leve + 5 minutos de mobilidade articular.
+        Costas: Remada curvada, puxada frontal, terra.
+        Bíceps: Rosca direta com halteres, rosca martelo, rosca concentrada.
+        Abdômen: Russian twist, leg raise, scissor.
+    Dia C: Perna e Abdômen
+        Aquecimento: 5 minutos de cardio leve + 5 minutos de mobilidade articular.
+        Perna: Agachamento livre, afundo, lunges, calf raise.
+        Abdômen: Plank lateral, bicicleta invertida, abdominal com rotação.
+
+##Observações:
+
+    Repetições e séries: Para queimar gordura e tonificar os músculos, realize entre 12 e 15 repetições por série e 3 a 4 séries por exercício.
+    Descanso: Descanse entre 45 segundos e 1 minuto entre as séries.
+    Intensidade: Aumente gradualmente a carga dos exercícios para continuar desafiando seus músculos e promovendo o crescimento.
+    Nutrição: Combine o treino com uma alimentação equilibrada e rica em proteínas para auxiliar na construção muscular e na perda de gordura.
+    Cardio: Inclua atividades cardiovasculares como corrida, natação ou ciclismo em dias alternados aos treinos de força para aumentar o gasto calórico.
+
+##Dicas Adicionais:
+
+    Varie os exercícios: Alterne os exercícios a cada 4-6 semanas para evitar a adaptação muscular e continuar estimulando o crescimento.
+    Contratar um profissional: Consulte um educador físico para um acompanhamento personalizado e evitar lesões.
+    Ouvir o corpo: Respeite seus limites e ajuste o treino conforme necessário.
+    Lembre-se: Este é apenas um exemplo de plano de treino. A personalização é fundamental para alcançar seus objetivos. Adapte este plano às suas necessidades e preferências, sempre buscando orientação profissional.
